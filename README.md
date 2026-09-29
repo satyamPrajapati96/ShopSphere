@@ -133,6 +133,4 @@ The layout automatically adapts using CSS media queries.
 
 Built as a frontend development project to practice and demonstrate React, JavaScript, CSS, and responsive web development.
 
-## 📄 License
 
-This project is created for learning and portfolio purposes.
